@@ -1,1 +1,1 @@
-# aalpha-beta-pruning
+# alpha-beta-pruning
